@@ -4,11 +4,9 @@ As with a car with automatic transmission, you must get used to not using your l
 
 
 
-
 ### "TURTLE" MODE
 
 If the lamp is lit on the instrument panel display, the state of charge of the high-voltage battery is critical, the engine power gradually decreases and the range is limited. Put the vehicle on charge. If, after the charging the warning lamp remains lit, contact a Jeep Dealership.
-
 
 
 
@@ -32,9 +30,9 @@ can be recharged and discharged, charging times vary depending on home or public
 
 NOTE The traction battery ageing depends on several factors, such as climatic conditions and the distance travelled.
 
-**3) 4) 5) 6) 7) 8) 9) 10)**
+**3) 4) 5) 6) 7) 8) 9) 10)
 
-**1) 2) 3) 1) 2)**
+**1) 2) 3) 1) 2)
 
 ### HIGH-VOLTAGE BATTERY DISPOSAL
 
@@ -53,7 +51,6 @@ optimise driving range
 optimise the working life of the highvoltage battery
 
 If the temperature of the high-voltage battery is below -10°C, or above 40°C, some car functions may change or turn off as battery performance decreases outside this temperature range.
-
 
 
 
@@ -79,7 +76,6 @@ If the temperature of the high-voltage battery is below -10°C, or above 40°C, 
 
 
 
-
 ### *IMPORTANT*
 
 **1)** *The high-voltage battery may only be disconnected by qualified personnel at a Jeep Dealership.*
@@ -87,10 +83,6 @@ If the temperature of the high-voltage battery is below -10°C, or above 40°C, 
 **2)** *If, as a result of a violent impact or accident, the car has hit the bottom (underbody), have the battery and the high-voltage system checked by qualified technicians.*
 
 **3)** *To preserve the mileage of your vehicle and the durability of your traction battery,* *Jeeps recommends that you; do not fully charge the battery of your electric vehicle daily (charge the traction battery below 80% as often as possible); do not completely discharge the battery; do not store the vehicle for a long period of non-use (more than 12 hours) when the traction battery has a low or high charge level. Prefer a charge level between 20 and 40%; limit the use of fast charging; do not expose the vehicle to temperatures below -30*°*C and above +60*°*C for more than 24 hours; avoid charging the vehicle at negative temperatures (except if the vehicle ran more than 20 minutes) or above +30*°*C; do not use the vehicle's high-voltage battery as a generator of energy; do not use a generator to recharge your vehicle's high-voltage battery.*
-
-
-
-
 
 
 
@@ -114,18 +106,13 @@ If the temperature of the high-voltage battery is below -10°C, or above 40°C, 
 
 
 
-
-
-
-
 ### KEYS LOCKS
 
 # KEYS
 
 
 
-
-### **11)**
+### **11)
 
 ### **Replacement keys**
 
@@ -139,19 +126,15 @@ The key number must be quoted when ordering replacement keys as it is a componen
 
 
 
-
-
 Press button in fig. 2 to extend. To fold the key, first press the button and then fold.
 
 ### RADIO REMOTE CONTROL
 
 
 
-
 3 **JJ000003** : unlocks the doors
 
 : locks the doors
-
 
 
 
@@ -197,7 +180,6 @@ Interference from higher-power radio waves from other sources.
 
 
 
-
 4 **JJ000005** Enables a keyless operation of the following functions:
 
 central locking system
@@ -228,7 +210,7 @@ Interference from higher-power radio waves from other sources.
 
 To rectify the cause of the fault, change the position of the electronic key.
 
-### REPLACING BATTERY IN RADIO REMOTE CONTROL/ELECTRONIC KEY **13) 14) 15) 3)**
+### REPLACING BATTERY IN RADIO REMOTE CONTROL/ELECTRONIC KEY **13) 14) 15) 3)
 
 Replace the battery as soon as the system no longer operates properly or the range is reduced.
 
@@ -238,11 +220,9 @@ illuminates and a warning message is displayed in the instrument panel display.
 
 
 
-
 5 **JJ000005_2**
 
 Batteries do not belong in household waste. They must be disposed of at an appropriate recycling collection point.
-
 
 
 
@@ -259,7 +239,6 @@ Batteries do not belong in household waste. They must be disposed of at an appro
 
 
 
-
 ### REINITIALISING THE REMOTE CONTROL
 
 Following replacement of the battery or in the event of a fault, it may be necessary to reinitialise the remote control.
@@ -267,7 +246,6 @@ Following replacement of the battery or in the event of a fault, it may be neces
 ### **Radio remote control**
 
 insert the key in the ignition switch and turn the key to position (2) fig. 8
-
 
 
 
@@ -284,7 +262,6 @@ If the fault persists after reinitialisation, contact a Jeep Dealership without 
 insert the mechanical key (incorporated into the electronic key) into the lock to open the vehicle
 
 place the electronic key against the back-up reader on the steering column and hold it there until the ignition is switched on fig. 9
-
 
 
 
@@ -306,13 +283,11 @@ NOTE In the event of an accident in which airbags or belt pretensioners are depl
 
 
 
-
 ### 10 **JJ000007 Unlocking**
 
 Press fig. 10 to unlock the doors and switch on the interior and exterior lighting (Welcome lighting).
 
 The function "Welcome lighting" can be activated/deactivated and adjusted through the **Uconnect™ 10.25"/10.25" NAV** system, fig. 11. See the "Guide-mehome and welcome lighting" paragraph in the "Exterior lighting" chapter.
-
 
 
 
@@ -337,7 +312,6 @@ Close doors, load compartment and fuel filler flap.
 
 
 
-
 ### 13 **JJ000008**
 
 Press fig. 13.
@@ -345,11 +319,6 @@ Press fig. 13.
 If the vehicle is not closed properly, the central locking system will not work. Operation of the central locking system is confirmed by the hazard warning flashers.
 
 ### **Load compartment**
-
-
-
-
-
 
 
 
@@ -387,11 +356,6 @@ Select the relevant setting in the vehicle personalisation.
 
 
 
-
-
-
-
-
 ### **Confirmation**
 
 Operation of the central locking system is confirmed by the hazard warning flashers and an audible chime.
@@ -407,7 +371,6 @@ NOTE If the vehicle is not closed properly or the electronic key remains in the 
 If the vehicle is equipped with an antitheft alarm system, a warning chime sounds after a few seconds.
 
 NOTE The electronic key may not operate if placed close to electronic devices such as mobile phones or laptop computers.
-
 
 
 
@@ -439,18 +402,15 @@ Only the load compartment will be unlocked / locked.
 
 
 
-
 16 **JJ000011**
 
 The central locking system can also be operated with the buttons on the electronic key.
 
 
 
-
 Press to lock.
 
 ### **Driver's door handle**
-
 
 
 
@@ -472,8 +432,7 @@ To completely close the windows and, depending on version, the sunroof, press th
 
 Press again to stop closing.
 
-**16)**
-
+**16)
 
 
 
@@ -495,11 +454,7 @@ Press again to stop closing.
 
 
 
-
-
-
 ### *IMPORTANT*
-
 
 
 
@@ -518,17 +473,13 @@ Press again to stop closing.
 
 
 
-
-
-
 ### IGNITION DEVICE
 
-**17) 18) 19) 20) 21) 22)**
+**17) 18) 19) 20) 21) 22)
 
 ### IGNITION SWITCH POSITIONS
 
 (where provided) Turn key:
-
 
 
 
@@ -548,7 +499,6 @@ Remove key from ignition switch and turn steering wheel until it engages.
 
 
 
-
 19 **JJ000430**
 
 STOP: ignition off: some functions remain active until key is removed or driver's door is opened, provided the ignition was on previously
@@ -556,7 +506,6 @@ STOP: ignition off: some functions remain active until key is removed or driver'
 ENGINE: ignition on power mode: ignition is on, control indicators illuminate and most electrical functions are operable
 
 START: engine start: release after engine has been started
-
 
 
 
@@ -574,7 +523,7 @@ START: engine start: release after engine has been started
 
 # VEHICLE SECURITY
 
-### ANTI-THEFT LOCKING SYSTEM **23)**
+### ANTI-THEFT LOCKING SYSTEM **23)
 
 The system deadlocks all the doors. All doors must be closed otherwise the system cannot be activated. Unlocking the vehicle disables the mechanical anti-theft locking system. This is not possible with the central locking button.
 
@@ -582,9 +531,7 @@ The system deadlocks all the doors. All doors must be closed otherwise the syste
 
 
 
-
 20 **JJ000013** Press fig. 20 on the radio remote control or touch the sensor of the driver's door handle fig. 21 twice within 3 seconds.
-
 
 
 
@@ -620,20 +567,11 @@ NOTE Changes to the vehicle interior such as the use of seat covers and open win
 
 
 
-
 Switch off the monitoring of passenger compartment and vehicle inclination when animals are being left in the vehicle, because of high volume ultrasonic signals or movements triggering the alarm.
 
 Also, switch off when the vehicle is on a ferry or train.
 
 1. Close tailgate, bonnet, windows.
-
-
-
-
-
-
-
-
 
 
 
@@ -695,17 +633,15 @@ WARNING The immobiliser does not lock the doors. Always lock the vehicle after l
 
 
 
-
 ### *WARNING*
 
 **23)** *Do not use the system if there are people in the vehicle! The doors cannot be unlocked from the inside.*
 
 # DOORS
 
-### CENTRAL LOCKING BUTTON **24) 25)**
+### CENTRAL LOCKING BUTTON **24) 25)
 
 The central locking button (1) fig. 23 locks or unlocks all doors, the load compartment and fuel filler flap from inside the passenger compartment.
-
 
 
 
@@ -723,11 +659,9 @@ In case of a fault, e.g. vehicle conventional battery or remote control / electr
 
 
 
-
 24 **JJ000563**
 
 Electronic key: push the latch fig. 24 to extract the integral key.
-
 
 
 
@@ -743,11 +677,9 @@ By switching on the ignition, the antitheft locking system is deactivated.
 
 
 
-
 26 **JJ000433**
 
 Manually lock the front door by inserting and turning the key in the lock cylinder fig. 26.
-
 
 
 
@@ -780,11 +712,6 @@ If one of the doors or the tailgate is open, the automatic central locking does 
 
 
 
-
-
-
-
-
 28 **JJ000431**
 
 This function can be activated or deactivated at any time. With the ignition on, press (1) fig. 28 until an audible signal starts and a corresponding message is displayed.
@@ -799,13 +726,11 @@ This feature automatically relocks the vehicle a short time after unlocking with
 
 
 
-
-
 the remote control or electronic key, provided vehicle has not been opened.
 
 ### PASSIVE ENTRY (where provided)
 
-### **26)**
+### **26)
 
 The system can identify the presence of an electronic key near the doors (and the tailgate) to unlock/lock the doors (or the tailgate) without having to press any button on the electronic key. If the system identifies that the electronic key found is valid, the owner of the key can simply grasp one of the
 
@@ -819,22 +744,19 @@ To lock the door, make sure that you have the electronic key and are within the 
 
 
 
-
 WARNING Do not simultaneously lock and unlock by pulling the handle.
 
 ### CHILD LOCKS
 
-**27) 28)**
+**27) 28)
 
 ### **Mechanical child locks**
-
 
 
 
 30 **JJ000435** Turn the red child lock in the rear door inwards to the horizontal position by using a key fig. 30. The door cannot be opened from the inside.
 
 To deactivate, turn the child lock to the vertical position.
-
 
 
 
@@ -852,10 +774,9 @@ To deactivate, turn the child lock to the vertical position.
 
 # FRONT SEATS
 
-**29) 30) 31) 32)**
+**29) 30) 31) 32)
 
-**6)**
-
+**6)
 
 
 
@@ -877,17 +798,13 @@ Drive only with engaged seats and backrests.
 
 **Longitudinal adjustment**
 
-**33)**
-
+**33)
 
 
 
 32 **JJ000476** Pull handle (1) fig. 32, slide seat, release handle. Try to move the seat back and forth to ensure that the seat is locked in place.
 
 ### **Seat height**
-
-
-
 
 
 
@@ -903,13 +820,7 @@ Lever (2) fig. 33 pumping motion up: seat higher down: seat lower
 
 
 
-
 34 **JJ000478** Turn handwheel (3) fig. 34. Do not lean on backrest when adjusting.
-
-
-
-
-
 
 
 
@@ -925,8 +836,7 @@ Lever (2) fig. 33 pumping motion up: seat higher down: seat lower
 
 (where provided)
 
-**Longitudinal adjustment 34) 7)**
-
+**Longitudinal adjustment 34) 7)
 
 
 
@@ -936,11 +846,9 @@ Lever (2) fig. 33 pumping motion up: seat higher down: seat lower
 
 
 
-
 36 **JJ000761** Turn the switch fig. 36 forwards / backwards.
 
 ### **Seat height and inclination**
-
 
 
 
@@ -950,14 +858,12 @@ Lever (2) fig. 33 pumping motion up: seat higher down: seat lower
 
 
 
-
 38 **JJ000763** Press or fig. 38.
 
 - : more lumbar support
 - : less lumbar support
 
 ### **Heating** (where provided)
-
 
 
 
@@ -981,7 +887,6 @@ MASSAGE
 
 
 
-
 40 **JJ000764** Activate the back massage function by pressing .The LED in the button illuminates to indicate activation.
 
 The massage function is activated for a period of 1 hour. During this time, massage is performed in six cycles with breaks in between.
@@ -998,10 +903,9 @@ Move front seats forward if necessary. Remove the load compartment cover. Press 
 
 # **Folding down/up rear backrests**
 
-**8)**
+**8)
 
 Check that the seat belts are not engaged in the seat belt buckles, so that the backrests can be moved.
-
 
 
 
@@ -1009,8 +913,7 @@ Check that the seat belts are not engaged in the seat belt buckles, so that the 
 
 The backrests are properly engaged when the red marks (1) fig. 41 near the release levers are no longer visible.
 
-**35)**
-
+**35)
 
 
 
@@ -1018,17 +921,13 @@ The backrests are properly engaged when the red marks (1) fig. 41 near the relea
 
 ### **Rear armrest**
 
-### **36)**
+### **36)
 
 The backrest central part, once tilted, can be used as rear armrest as well.
 
 WARNING Before repositioning the central part of the backrest check that there are no beverages or objects in the cup holder which could obstruct the coupling area (remove them if present).
 
 Operating on the head restraint, lift the armrest upwards, accompanying it during the movement and lightly press to make sure that the lock is properly attached. After coupling, push and pull the armrest from the top to make sure that it is coupled: repeat the operation if it is not coupled.
-
-
-
-
 
 
 
@@ -1046,9 +945,7 @@ Do not place any objects on the cover.
 
 
 
-
 43 **JJ000440** Unhook retaining straps from tailgate fig. 43.
-
 
 
 
@@ -1057,7 +954,6 @@ Do not place any objects on the cover.
 ### **Fitting cover**
 
 Engage cover in side guides and fold downwards. Attach the retaining straps to the tailgate.
-
 
 
 
@@ -1081,7 +977,6 @@ Engage cover in side guides and fold downwards. Attach the retaining straps to t
 
 
 
-
 ### *IMPORTANT*
 
 **6)** *The fabric upholstery of the seats has been designed to withstand long-term wear deriving from normal use of the car. Some precautions are however required. Avoid prolonged and/or excessive rubbing against clothing accessories such as metal buckles and Velcro strips which, by applying a high pressure on the fabric in a small area, could cause it to break, thereby damaging the upholstery.* **7)** *Do not arrange objects beneath the electrically adjustable seat and do not impede its movement, since the controls*
@@ -1094,8 +989,7 @@ Engage cover in side guides and fold downwards. Attach the retaining straps to t
 
 ### POSITION
 
-**37) 38)**
-
+**37) 38)
 
 
 
@@ -1107,11 +1001,9 @@ Engage cover in side guides and fold downwards. Attach the retaining straps to t
 
 
 
-
 46 **JJ000441** Pull the head restraint upwards fig. 46 or press the catch to release and push the head restraint downwards.
 
 ### **Head restraints on rear seats**
-
 
 
 
@@ -1120,7 +1012,6 @@ Engage cover in side guides and fold downwards. Attach the retaining straps to t
 ### **Removal**
 
 Press catch, pull the respective head restraint upwards and remove.
-
 
 
 
@@ -1134,9 +1025,7 @@ Press catch, pull the respective head restraint upwards and remove.
 
 
 
-
 ### STEERING WHEEL ADJUSTMENT
-
 
 
 
@@ -1164,17 +1053,9 @@ The steering wheel lock activates automatically when:
 
 
 
-
-
-
-
-
-
-
-
 the vehicle is stationary the ignition has been switched off To release steering wheel lock, open and close driver's door and switch the ignition on power mode or start the engine directly.
 
-### **41)**
+### **41)
 
 ### **Steering wheel controls**
 
@@ -1182,11 +1063,9 @@ The following devices can be operated by the steering wheel controls:
 
 
 
-
 Speed Limiter, Adaptive Cruise Control, Highway Driver Assist fig. 49 (1) Activation of the Speed limiter or Cruise control with the speed setting saved. Use the speed suggested by the Road signs recognition system (2) Up/Down: increase/decrease the speed setting. Press: display and adjustment of the distance setting to the vehicle in front (Adaptive cruise control) (3) Select/Deselect the cruise control function. Select/Deselect the Adaptive cruise control/ Highway Driver Assist
 
 (4) Start/Pause of the Speed limiter or Cruise control with the speed setting saved. Confirmation of vehicle restart after automatic stop (Adaptive cruise control with Stop & Go function) (5) Select/Deselect the speed limiter function
-
 
 
 
@@ -1213,10 +1092,6 @@ Long press: smartphone voice commands
 For further information refer to "Starting and driving" and "Multimedia" sections.
 
 **Horn**
-
-
-
-
 
 
 
