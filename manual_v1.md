@@ -998,13 +998,3 @@ Phone application's call log
 Long press: smartphone voice commands
 
 For further information refer to "Starting and driving" and "Multimedia" sections.
-
-**Horn**
-
-*WARNING*
-
-**39)** *All adjustments must be carried out only with the car stationary and engine off.*
-
-**40)** *It is absolutely forbidden to carry out any after-market operation involving steering system or steering column modifications (e.g. installation of anti-theft device) that could adversely affect performance and safety, invalidate the warranty and also result in noncompliance of the car with typeapproval requirements.*
-
-**41)** *If the conventional battery is discharged, the vehicle must not be towed, tow-started or jump-started as the steering wheel lock cannot be disengaged.*
