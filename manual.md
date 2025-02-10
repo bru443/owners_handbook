@@ -295,12 +295,6 @@ NOTE A short time after unlocking the vehicle with the remote control the doors 
 
 Unlocking mode can be set in the vehicle personalisation menu (Settings>Vehicle>Vehicle access) in the **Uconnect™ 10.25"/10.25" NAV** system, fig. 12 (see "Multimedia" section and the online **Uconnect™ 10.25"/10.25" NAV** manual for further information).
 
-|  |  |  |  |  | i |
-|--|--|--|--|--|---|
-|  |  |  |  |  | i |
-|  |  |  |  |  |   |
-|  |  |  |  |  |   |
-|  |  |  |  |  |   |
 
 12 **JJ000718**
 
@@ -474,11 +468,6 @@ Press again to stop closing.
 
 ![](_page_20_Figure_31.jpeg)
 
-|  | 0<br>0<br>4     |
-|--|-----------------|
-|  |                 |
-|  | -<br>1<br>10 21 |
-|  | P               |
 
 ![](_page_20_Picture_34.jpeg)
 
